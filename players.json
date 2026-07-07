@@ -1,0 +1,52 @@
+[
+ {
+  "name":"Connor McDavid",
+  "position":"C",
+  "stats":{
+   "goals":95,
+   "assists":100,
+   "points":100,
+   "shots":90,
+   "shooting":85,
+   "defense":75,
+   "takeaways":95,
+   "hits":40,
+   "blocks":45,
+   "toi":95
+  }
+ },
+
+ {
+  "name":"Brady Tkachuk",
+  "position":"LW",
+  "stats":{
+   "goals":85,
+   "assists":70,
+   "points":80,
+   "shots":90,
+   "shooting":70,
+   "defense":75,
+   "takeaways":65,
+   "hits":100,
+   "blocks":85,
+   "toi":85
+  }
+ },
+
+ {
+  "name":"Shutdown Example",
+  "position":"D",
+  "stats":{
+   "goals":35,
+   "assists":45,
+   "points":40,
+   "shots":40,
+   "shooting":45,
+   "defense":100,
+   "takeaways":85,
+   "hits":90,
+   "blocks":100,
+   "toi":90
+  }
+ }
+]
